@@ -14,7 +14,7 @@ For further details, please visit: https://wiki.melissadata.com/index.php?title=
 
 - Windows 10 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa MatchUp Object Global for 2025-Q3
+- Melissa MatchUp Object Global for 2025-Q4
 - Wrapper file(s) have not changed since 2025-Q1
 
 ## Getting Started
