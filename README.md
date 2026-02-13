@@ -6,23 +6,23 @@ This is the code for you to run MatchUp Object Global in Python3.
     
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For latest Melissa MatchUp Object Global release notes, please visit: https://releasenotes.melissa.com/on-premise-api/matchup-object-global/
+To view the latest Melissa MatchUp Object Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/matchup-object-global/
 
 For further details, please visit: https://wiki.melissadata.com/index.php?title=MatchUp_Object:Reference
 
 ## Tested Environments
 
-- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa MatchUp Object Global for 2025-Q4
+- Melissa MatchUp Object Global for 2026-Q1
 - Wrapper file(s) have not changed since 2025-Q1
 
 ## Getting Started
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/MatchUpObjectGlobal-Python3-Wrappers
-cd MatchUpObjectGlobal-Python3-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissamatchupobjectglobalpython3wrappers
+cd melissamatchupobjectglobalpython3wrappers
 ```
 
 ### Copy wrappers to your project folder
