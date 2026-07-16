@@ -21,8 +21,8 @@ For further details, please visit: https://wiki.melissadata.com/index.php?title=
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissamatchupobjectglobalpython3wrappers
-cd melissamatchupobjectglobalpython3wrappers
+git clone https://github.com/MelissaData/MatchUpObjectGlobal-Python3-Wrappers
+cd MatchUpObjectGlobal-Python3-Wrappers
 ```
 
 ### Copy wrappers to your project folder
